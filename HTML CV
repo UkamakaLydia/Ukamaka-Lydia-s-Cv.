@@ -1,0 +1,24 @@
+<!DOCTYPE html>  <html  lang= "en">    <head>    
+<meta charset= "utf-8">    
+<meta name= "author" content= "Ukamaka Lydia">    
+<title> My Curriculum Vitae </title>    
+</head>    
+<body>   
+<h1> Ukamaka Lydia Odugwu </h1>  
+<p> 1 Ave-Maria Crescent Isuti Rd, Ikotun, Lagos </p>  
+<p> 07015096694 </p>  
+<p> ukamakalydia20@gmail.com </p>  
+<h2> Skills </h2>  
+<ul>   
+<li> Fashion Designing </li>  
+<li> Industrial Machine Operator </li>  
+<li> HTML & CSS (beginner) </li> </ul>  
+<h2> Work Experience </h2>  
+<ol>  
+<h3> <strong> Fashion Intern </strong> </h3> <p> 2015 to 2017  </p>  
+<h3> <strong> Seamstress </strong></h3> <p> 2017 to present </p>  
+<h3> <strong> Freelance Designer </strong> </h3> <p> 2017 to present </p> 
+<h3> <strong> Seamstress & Weaving Machine Operator </strong> </h3>  <p> Ready - To - Wear Production House August 2025 to November 2025 </p>  
+<h3> <strong> Class Project: </strong> </h3> <p> Created a Simple HTML page as an assignment </p>  
+</ol>  </body>    
+</html>  
